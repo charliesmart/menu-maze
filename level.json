@@ -1,0 +1,24 @@
+{
+    "level": {
+        "type": "dropdown",
+        "contents": [
+            {
+                "type": "empty"
+            },
+            {
+                "type": "coin"
+            },
+            {
+                "type": "dropdown",
+                "contents": [
+                    {
+                        "type": "empty"
+                    },
+                    {
+                        "type": "empty"
+                    }
+                ]
+            }
+        ]
+    }
+}
